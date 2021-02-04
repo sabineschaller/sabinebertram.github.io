@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sabine (Bertram) Schaller</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Sabine (Bertram) Schaller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Feb 2021 20:18:18 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Wed, 03 Feb 2021 20:18:18 +0100</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Send me a message. I&amp;rsquo;ll get back to you as soon as possible.
+ Your email:
+Your message:
+    function submitAndClear() { document.getElementById(&#34;contact&#34;).submit(); document.getElementById(&#34;contact&#34;).reset(); }  </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 03 Feb 2021 20:11:05 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Truth be told, I&amp;rsquo;m actually a Statistician. But ever since I discovered coding, I can&amp;rsquo;t keep my hands off of the keyboard.
+My main focus lies in Data Ownership and the Internet of Value. The largest companies of our time (Google, Facebook, etc.) make us believe that content on the Web is for free while we actually pay with our data. Based on the data trail you leave, you are being categorized and ads are presented to you.</description>
+    </item>
+    
+  </channel>
+</rss>
